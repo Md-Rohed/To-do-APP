@@ -1,0 +1,13 @@
+body {
+  background-color: aquamarine;
+  background: aquamarine;
+}
+
+.todo-form {
+  text-align: center;
+}
+
+.ul {
+  text-align: left;
+  background-color: bisque;
+}
